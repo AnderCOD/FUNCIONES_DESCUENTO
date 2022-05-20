@@ -29,5 +29,6 @@ int main() {
 cout<<"INGRESE EL MONTO GASTADO: " <<endl;
 cin>>total;
     descuentos(total);
+    cout<<"MUCHAS GRACIAS POR SU COMPRA";
     return 0;
 }
